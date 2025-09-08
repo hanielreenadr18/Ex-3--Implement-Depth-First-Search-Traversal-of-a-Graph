@@ -70,3 +70,4 @@ DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
 
 
 **Result:**
+Thus the program for Depth first search is executed successfully.
