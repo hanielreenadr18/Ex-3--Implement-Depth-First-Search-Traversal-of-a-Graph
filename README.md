@@ -1,8 +1,8 @@
 # Ex-3-Implement-Depth-First-Search-Traversal-of-a-Graph
 
-**Name:**
+**Name:** HANIEL REENA D R
 
-**Register Number:**
+**Register Number:** 2305001008
 
 ### Aim:
 To Implement Depth First Search Traversal of a Graph using Python 3.
@@ -61,5 +61,12 @@ D E
 Graph: {'A': ['B', 'C'], 'B': ['A', 'D', 'E'], 'C': ['A', 'E'], 'D': ['B', 'E'], 'E': ['B', 'C', 'D']}
 
 DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
+
+### INPUT 
+<img width="701" height="134" alt="image" src="https://github.com/user-attachments/assets/e2955458-95a6-4a9f-b820-de7b8d96629a" />
+
+### OUTPUT 
+<img width="1046" height="53" alt="image" src="https://github.com/user-attachments/assets/17729975-e67d-4c8b-8f80-4cb95e6e6abe" />
+
 
 **Result:**
